@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5wGuhxwTANZMkBYc3QMhfn/+B6Ej1d4M/1HIz9coKfE=",
+  "Source": "server-test-c#",
+  "BasePath": "_content/server-test-c#",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
